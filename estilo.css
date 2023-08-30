@@ -696,6 +696,9 @@ footer .arriba{
     .portfolio .galeria .proyecto img{
         width: 50%;
     }
+    .portfolio .galeria .proyecto img{
+        width: 50%;
+    }   
     .contacto .fila{
         display: block;
     }
