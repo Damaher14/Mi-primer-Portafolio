@@ -635,7 +635,7 @@ footer .arriba{
     font-size: 18px;
 }
 /* SECCION RESPONSIVE */
-@media screen and (max-width-img:500px){
+@media screen and (max-width-img:400px){
     nav{
         display: none;
     }
@@ -658,7 +658,7 @@ footer .arriba{
         padding: 10px 0;
     }
 }
-@media screen and (max-width-img:400px){
+@media screen and (max-width-img:300px){
     .sobremi .fila{
         display: block;
     }
